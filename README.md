@@ -106,7 +106,7 @@ npm test
 ```
 
 ### Report
-The testing result is here.
+The testing result is [here](./mochawesome-report/mochawesome.html).
 
 When you run the project on your local machine, the report is under the project root folder: 
 
